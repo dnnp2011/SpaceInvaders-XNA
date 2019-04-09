@@ -5,5 +5,5 @@
 
 Although the source files are lost to obsolesence, it is still possible to play the game by following these simple steps:
 
-1. Install the **XNA Redistributable** location in the __GameRoot/Redistributable__ directory.
+1. Install the **XNA Redistributable** located in the __GameRoot\Redistributable__ directory.
 2. Launch the game with the SpaceInvaders.exe executable.
